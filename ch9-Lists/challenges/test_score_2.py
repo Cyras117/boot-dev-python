@@ -1,4 +1,3 @@
-
 def get_test_score(answer_sheet, student_answers):
     right_answer_count = 0
     student_name = student_answers[0]
